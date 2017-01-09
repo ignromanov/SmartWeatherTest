@@ -23,12 +23,12 @@ import webapp2
 
 ######## GLOBAL VARIABLES ########
 
-TOKEN = 'BOT_TOKEN_COMES_HERE'
+TOKEN = '324662497:AAFKDZUCNWtPa_1c_3MYwXB1vvHBiiUnoK8'
 
 BASE_URL = 'https://api.telegram.org/bot' + TOKEN + '/'
 
 WEATHER_BASE_URL = 'http://api.openweathermap.org/data/2.5/weather?'
-WEATHER_API_KEY = 'OPENWEATHERMAP_APIKEY_COMES_HERE'
+WEATHER_API_KEY = '53bc7fbe7ed4c74ab8f77f669c94f526'
 WEATHER_CITY_NAME = 'q='
 WEATHER_CITY_LAT = 'lat='
 WEATHER_CITY_LNG = 'lon='
